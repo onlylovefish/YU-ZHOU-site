@@ -14,7 +14,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/',
+  base: '/YU-ZHOU-site/',
   lang: 'zh-CN',
   title: 'yuzhou-site',
   description: '渔舟小站',
